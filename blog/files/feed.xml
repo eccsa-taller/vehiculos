@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" 
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+	<channel>
+<title>My RSS Feed</title><link>http://page0.html</link><description>Hot News&#x21;</description><dc:language>en</dc:language><language>en</language><dc:date>2020-11-04T12:28:13-04:00</dc:date><admin:generatorAgent rdf:resource="http://www.realmacsoftware.com/" />
+<sy:updatePeriod>hourly</sy:updatePeriod>
+<sy:updateFrequency>1</sy:updateFrequency>
+<sy:updateBase>2000-01-01T12:00+00:00</sy:updateBase>
+<lastBuildDate>Mon, 16 Jul 2018 06:42:06 -0400</lastBuildDate><item><title>Novedades</title><dc:subject>Proposito</dc:subject><dc:date>2020-11-04T12:28:13-04:00</dc:date><link>http://blog/files/e3836e7b6c4a69d44a09f2e1b3213230-2.html#unique-entry-id-2</link><guid isPermaLink="true">http://blog/files/e3836e7b6c4a69d44a09f2e1b3213230-2.html#unique-entry-id-2</guid><content:encoded><![CDATA[La presente pagina WEB tiene por fin, el mantener informaci&oacute;n actualizada sobre los equipos de propiedad de la Empresa Constructora Cochabamba S.A. ECCSA.  ]]></content:encoded></item></channel>
+</rss>
